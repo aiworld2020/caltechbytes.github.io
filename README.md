@@ -1,6 +1,6 @@
 # [Start Bootstrap - Heroic Features](https://startbootstrap.com/template/heroic-features/)
 
-[Heroic Features](https://startbootstrap.com/template/heroic-features/) is a multipurpose HTML template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+HTML template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
