@@ -1,4 +1,4 @@
-# HTML template using [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
+# HTML template by [Bootstrap](https://getbootstrap.com/) created using [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
